@@ -1,0 +1,85 @@
+65440	Friday
+65441	Saturday
+65442	Invalid file name - %s
+65456	September
+65457	October
+65458	November
+65459	December
+65460	Sun
+65461	Mon
+65462	Tue
+65463	Wed
+65464	Thu
+65465	Fri
+65466	Sat
+65467	Sunday
+65468	Monday
+65469	Tuesday
+65470	Wednesday
+65471	Thursday
+65472	May
+65473	Jun
+65474	Jul
+65475	Aug
+65476	Sep
+65477	Oct
+65478	Nov
+65479	Dec
+65480	January
+65481	February
+65482	March
+65483	April
+65484	May
+65485	June
+65486	July
+65487	August
+65488	Invalid variant type conversion
+65489	Invalid variant operation
+65490	Invalid argument
+65491	External exception %x
+65492	Assertion failed
+65493	Interface not supported
+65494	Exception in safecall method
+65495	Object lock not owned
+65496	Monitor support function not initialized
+65497	%s (%s, line %d)
+65498	Abstract Error
+65499	Access violation at address %p in module '%s'. %s of address %p
+65500	Jan
+65501	Feb
+65502	Mar
+65503	Apr
+65504	Invalid class typecast
+65505	Access violation at address %p. %s of address %p
+65506	Access violation
+65507	Stack overflow
+65508	Control-C hit
+65509	Privileged instruction
+65510	Operation aborted
+65511	Exception %s in module %s at %p.
+\n%s%s
+\n
+65512	Application Error
+65513	Format '%s' invalid or incompatible with argument
+65514	No argument for format '%s'
+65515	Variant method calls not supported
+65516	Read
+65517	Write
+65518	Error creating variant or safe array
+65519	Variant or safe array index out of bounds
+65520	Out of memory
+65521	I/O error %d
+65522	File not found
+65523	Too many open files
+65524	File access denied
+65525	Read beyond end of file
+65526	Disk full
+65527	Invalid numeric input
+65528	Division by zero
+65529	Range check error
+65530	Integer overflow
+65531	Invalid floating point operation
+65532	Floating point division by zero
+65533	Floating point overflow
+65534	Floating point underflow
+65535	Invalid pointer operation
